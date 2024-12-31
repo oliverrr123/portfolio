@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+    background-color: #181818;
+}
+
 @font-face {
     font-family: "Montserrat";
     src: url("/fonts/Montserrat.ttf");
