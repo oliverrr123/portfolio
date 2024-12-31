@@ -48,7 +48,7 @@
     <section class="w-full flex flex-col justify-center gap-14">
         {#each skills as skill}
             <div class="flex flex-col gap-2">
-                <img src="images/{skill.image}" alt="Web development" class="w-full rounded-md">
+                <img src="/images/{skill.image}" alt="Web development" class="w-full rounded-md">
                 <h2 class="font-bold text-lg mt-2">{skill.title}</h2>
                 <p class="text-white text-opacity-75 pb-1">{skill.description}</p>
                 <a href={skill.link}><button class="font-semibold bg-white text-[#181818] rounded-md px-4 py-1.5">Find out more</button></a>
@@ -59,7 +59,7 @@
     <section class="w-full flex flex-col justify-center gap-14">
         {#each projects as project}
             <div class="flex flex-col gap-2">
-                <img src="images/{project.image}" alt="Web development" class="w-full rounded-md">
+                <img src="/images/{project.image}" alt="Web development" class="w-full rounded-md">
                 <h2 class="font-bold text-lg mt-2">{project.title}</h2>
                 <a href={project.link} target="_blank"><button class="font-semibold bg-white text-[#181818] rounded-md px-4 py-1.5">Find out more</button></a>
             </div>
