@@ -73,7 +73,7 @@
             <img src="/images/{website.image}" alt="Web development" class="w-full">
             <h2 class="font-bold text-lg mt-2">{website.title}</h2>
             <p class="text-white text-opacity-75 pb-1">{website.description}</p>
-            <a href={website.link}><button class="font-semibold bg-white text-[#181818] px-4 py-1.5">Find out more</button></a>
+            <a href={website.link}><button class="font-semibold bg-white text-[#181818] rounded-lg px-4 py-1.5">Find out more</button></a>
         </div>
     {/each}
 </section>
