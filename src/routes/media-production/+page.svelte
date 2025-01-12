@@ -51,6 +51,10 @@
     ]
 </script>
 
+<svelte:head>
+    <title>Oliver Cingl | Media Production</title>
+</svelte:head>
+
 <a href="/" class="text-white text-sm text-opacity-50 underline pt-16 block">{'<'}&nbsp; Back to main page</a>
 <h1 class="text-3xl font-bold pb-8 pt-2">Media production</h1>
 <h3 class="text-white text-opacity-80 text-lg font-light">One day I went to a drifting event with my friend. He borrowed me his camera and I took a couple of pictures. That’s when I got into it all. Since then, I’ve worked with multiple clients on creating marketing videos, car edits & photoshoots, music videos, and more...</h3>

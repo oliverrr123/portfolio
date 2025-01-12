@@ -63,6 +63,11 @@
     ]
 </script>
 
+
+<svelte:head>
+    <title>Oliver Cingl | Web Development</title>
+</svelte:head>
+
 <a href="/" class="text-white text-sm text-opacity-50 underline pt-16 block">{'<'}&nbsp; Back to main page</a>
 <h1 class="text-3xl font-bold pb-8 pt-2">Web development</h1>
 <h3 class="text-white text-opacity-80 text-lg font-light">It all begun when I was just a small kid wanting to build a game. After making a couple of web games, I gained experience and built more websites. Now I’m able to create both visually pleasing and functional websites of any kind, for anyone.</h3>

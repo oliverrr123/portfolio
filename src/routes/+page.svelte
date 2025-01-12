@@ -38,6 +38,10 @@
     ]
 </script>
 
+<svelte:head>
+    <title>Oliver Cingl</title>
+</svelte:head>
+
 <div class="flex w-full justify-center items-center pt-24 pb-6">
     <img src="/images/ksicht.png" alt="Avatar" class="w-48">
 </div>
