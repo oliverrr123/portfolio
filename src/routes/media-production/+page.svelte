@@ -1,24 +1,4 @@
 <script lang="ts">
-    let websites: { title: string; description: string; image: string; link: string; }[] = [
-        {
-            title: 'Lettersmith construction company',
-            description: 'A portfolio site for a London construction company - Comas Lettersmith Ltd including a couple images and an e-mail contact form.',
-            image: 'lettersmith.png',
-            link: 'https://comaslettersmith.co.uk/'
-        },
-        {
-            title: 'Luma production',
-            description: 'Another portfolio website, this time for my media production company - Luma production. It’s a simple one-pager including all the necessary info.',
-            image: 'luma.png',
-            link: 'https://luma-production.com/'
-        },
-        {
-            title: 'SX Media',
-            description: 'A showcase site of my work in documenting cars. Including a gallery with my best pics.',
-            image: 'sxmedia.png',
-            link: 'https://sx-media.vercel.app/'
-        }
-    ]
     let tools: { name: string; image: string; }[] = [
         {
             name: 'Adobe Premiere Pro',

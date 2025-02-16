@@ -3,19 +3,19 @@
         {
             title: 'Lettersmith construction company',
             description: 'A portfolio site for a London construction company - Comas Lettersmith Ltd including a couple images and an e-mail contact form.',
-            image: 'lettersmith.png',
+            image: 'lettersmith-construction-website-screenshot.png',
             link: 'https://comaslettersmith.co.uk/'
         },
         {
             title: 'Luma production',
             description: 'Another portfolio website, this time for my media production company - Luma production. It’s a simple one-pager including all the necessary info.',
-            image: 'luma.png',
+            image: 'luma-production-website-screenshot.png',
             link: 'https://luma-production.com/'
         },
         {
             title: 'SX Media',
             description: 'A showcase site of my work in documenting cars. Including a gallery with my best pics.',
-            image: 'sxmedia.png',
+            image: 'sx-media-website-screenshot.png',
             link: 'https://sx-media.vercel.app/'
         }
     ]

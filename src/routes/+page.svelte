@@ -3,36 +3,36 @@
         {
             title: 'Build a website',
             description: 'From building fun websites for myself to creating complex systems for companies, I have the skills to create pretty much any site you could imagine.',
-            image: 'lettersmith.png',
+            image: 'lettersmith-construction-website-screenshot.png',
             link: 'web-development'
         },
         {
             title: 'Film & produce any video',
             description: 'My hobby of filming cars grew into a whole production company making marketing videos, music clips, car edits, or other videos & photos of any kind.',
-            image: 'videoclip.png',
+            image: 'music-video-screenshot.png',
             link: 'media-production'
         },
         {
             title: 'Educate in IT',
             description: 'Since IT education in traditional schools is usually very poor, I decided to make fun workshops for children in elementary schools. I also teach teachers or whole companies.',
-            image: 'educate.png',
+            image: 'it-education-workshop.png',
             link: 'it-education'
         }
     ]
     let projects: { title: string; image: string; link: string; }[] = [
         {
             title: 'Luma production agency',
-            image: 'luma.png',
+            image: 'luma-production-website-screenshot.png',
             link: 'https://luma-production.com/'
         },
         {
             title: 'SX Media - car photos & videos',
-            image: 'sxmedia.png',
+            image: 'sx-media-website-screenshot.png',
             link: 'https://sx-media.vercel.app/'
         },
         {
             title: 'Lettersmith construction website',
-            image: 'lettersmith.png',
+            image: 'lettersmith-construction-website-screenshot.png',
             link: 'https://comaslettersmith.co.uk/'
         }
     ]
@@ -43,7 +43,7 @@
 </svelte:head>
 
 <div class="flex w-full justify-center items-center pt-24 pb-6">
-    <img src="/images/ksicht.png" alt="Avatar" class="w-48">
+    <img src="/images/oliver-cingl-profile-picture.jpg" alt="Avatar" class="w-48 rounded-full">
 </div>
 <h1 class="text-4xl font-bold text-center pb-4">Hi, I'm Oliver</h1>
 <h3 class="text-center text-white text-opacity-80 text-lg font-light">A passionate cybersecurity student from Prague</h3>
