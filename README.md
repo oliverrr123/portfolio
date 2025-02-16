@@ -1,38 +1,16 @@
-# sv
+# 🌐 Oliver Cingl - Personal Website
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+Welcome to the repository for [olivercingl.com](https://olivercingl.com)! This website showcases my skills, projects, and professional experience as a **Web Developer**, **Media Producer**, **IT Educator**, and **Cybersecurity Student**. 
 
-## Creating a project
+![Website Status](https://img.shields.io/website?url=https%3A%2F%2Folivercingl.com) ![License](https://img.shields.io/badge/license-MIT-blue) ![Last Commit](https://img.shields.io/github/last-commit/oliverrr123/portfolio)
 
-If you're seeing this, you've probably already done this step. Congrats!
+---
 
-```bash
-# create a new project in the current directory
-npx sv create
+## 🛠️ Built with
 
-# create a new project in my-app
-npx sv create my-app
-```
+- **Frontend**: SvelteKit, Tailwind CSS
+- **Hosting**: Vercel
 
-## Developing
+---
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+⭐ Don't forget to star this repository if you like it!
