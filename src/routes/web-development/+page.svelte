@@ -24,7 +24,7 @@
     ]
     let tools: { name: string; image: string; }[] = [
         {
-            name: 'HTML icon',
+            name: 'HTML',
             image: 'html.svg'
         },
         {
