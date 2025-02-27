@@ -24,28 +24,24 @@
     ]
     let tools: { name: string; image: string; }[] = [
         {
-            name: 'HTML',
-            image: 'html.svg'
-        },
-        {
-            name: 'CSS',
-            image: 'css.svg'
-        },
-        {
-            name: 'JavaScript',
-            image: 'javascript.svg'
-        },
-        {
-            name: 'TypeScript',
-            image: 'typescript.svg'
+            name: 'Next.js',
+            image: 'nextjs.svg'
         },
         {
             name: 'Svelte',
             image: 'svelte.svg'
         },
         {
+            name: 'TypeScript',
+            image: 'typescript.svg'
+        },
+        {
             name: 'Tailwind',
             image: 'tailwind.svg'
+        },
+        {
+            name: 'Supabase',
+            image: 'supabase.svg'
         },
         {
             name: 'Prisma',
