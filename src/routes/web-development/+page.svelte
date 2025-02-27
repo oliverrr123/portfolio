@@ -1,11 +1,11 @@
 <script lang="ts">
     let websites: { title: string; description: string; image: string; alt: string; link: string; }[] = [
         {
-            title: 'Lettersmith construction company',
-            description: 'A portfolio site for a London construction company - Comas Lettersmith Ltd including a couple images and an e-mail contact form.',
-            image: 'lettersmith-construction-website-screenshot.png',
-            alt: 'Screenshot of a website I built for Lettersmith construction company',
-            link: 'https://comaslettersmith.co.uk/'
+            title: 'GrowByte company',
+            description: 'Site for an IT company I co-founded - GrowByte including a blog CMS and multiple contact forms.',
+            image: 'growbyte-website-screenshot.png',
+            alt: 'Screenshot of a website I built for Growbyte company',
+            link: 'https://growbyte.co/'
         },
         {
             title: 'Luma production',

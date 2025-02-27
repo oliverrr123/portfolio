@@ -3,8 +3,8 @@
         {
             title: 'Build a website',
             description: 'From building fun websites for myself to creating complex systems for companies, I have the skills to create pretty much any site you could imagine.',
-            image: 'lettersmith-construction-website-screenshot.png',
-            alt: 'Screenshot of a website I built for Lettersmith construction company',
+            image: 'growbyte-website-screenshot.png',
+            alt: 'Screenshot of a website I built for GrowByte company',
             link: 'web-development',
         },
         {
@@ -37,8 +37,8 @@
         },
         {
             title: 'Lettersmith construction website',
-            image: 'lettersmith-construction-website-screenshot.png',
-            alt: 'Screenshot of a website I built for Lettersmith construction company',
+            image: 'growbyte-website-screenshot.png',
+            alt: 'Screenshot of a website I built for Growbyte company',
             link: 'https://comaslettersmith.co.uk/'
         }
     ]
@@ -52,7 +52,7 @@
     <img src="/images/oliver-cingl-profile-picture.jpg" alt={"Oliver Cingl profile picture, a passionate cybersecurity student from Prague"} class="w-48 rounded-full">
 </div>
 <h1 class="text-4xl font-bold text-center pb-4">Hi, I'm Oliver</h1>
-<h3 class="text-center text-white text-opacity-80 text-lg font-light">A passionate cybersecurity student from Prague</h3>
+<h3 class="text-center text-white text-opacity-80 text-lg font-light">Helping businesses at <a href="https://growbyte.co/">GrowByte</a></h3>
 <h2 class="text-3xl font-semibold text-center pt-24 pb-12">What can I do?</h2>
 <section class="w-full flex flex-col justify-center gap-20">
     {#each skills as skill}
