@@ -89,6 +89,7 @@
         </div>
     {/each}
 </section>
+<a href="https://growbyte.co/" target="_blank" class="text-xl font-semibold text-white text-opacity-90 block underline-offset-4 pt-20 pb-20"><span class="inline-flex gap-3 items-center border-b w-auto">More info on the website <img src="/icons/link.svg" alt="Link to my media production agency website" class="w-5 h-5"></span></a>
 <!-- <h2 class="text-2xl font-semibold pt-20 pb-6 text-white text-opacity-90">Tools I use:</h2>
 {#each tools as tool}
     <div class="flex gap-1 items-center">
