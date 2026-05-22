@@ -1,0 +1,37 @@
+# Oliver Cingl — Personal Portfolio
+
+> Web developer, agency founder, and hardware hacker based in Prague (currently in San Francisco). Building AI & web products and exploring brain-computer interfaces.
+
+## About
+
+Oliver Cingl is a cybersecurity student and entrepreneur from Prague, Czech Republic. He builds websites, web apps, and AI automations through his agency GrowByte, and is currently developing MyFriend — an AI companion for elderly people living alone.
+
+- Currently building: [MyFriend](https://growbyte.co/myfriend)
+- Agency: [GrowByte](https://growbyte.co/)
+- Social: [X / Twitter](https://x.com/olivercingl/), [GitHub](https://github.com/oliverrr123/), [LinkedIn](https://linkedin.com/in/olivercingl/)
+- Email: oliver.cingl@gmail.com
+
+## Projects
+
+### GrowByte
+Agency for custom websites, web apps, and AI automations. Builds everything from simple portfolio sites to complex custom CRMs and automated cold outreach systems.
+- URL: https://growbyte.co/
+- Portfolio page: https://olivercingl.com/growbyte
+
+### MyFriend
+An AI companion robot designed for the 16.2 million seniors in the US who live alone. Oliver built an MVP in Czech Republic, conducted market research at senior facilities in San Francisco, and pitched to VCs.
+- URL: https://growbyte.co/myfriend
+- Portfolio page: https://olivercingl.com/myfriend
+
+### Ambitious Shit
+Oliver's long-term moonshot thinking — inspired by a VC's question: "If you had unlimited time and resources, what's the most ambitious thing you'd build in the next 5–10 years?" Exploring brain-computer interfaces that could let you control devices and receive visual input directly through your brain.
+- Portfolio page: https://olivercingl.com/ambitious-shit
+
+## Skills & Stack
+
+Web development (SvelteKit, Next.js, TypeScript, Tailwind CSS, Supabase, PostgreSQL), AI automations, media production (Adobe Premiere Pro, After Effects, DaVinci Resolve), cybersecurity.
+
+## Optional
+
+- Sitemap: https://olivercingl.com/sitemap.xml
+- Contact: oliver.cingl@gmail.com

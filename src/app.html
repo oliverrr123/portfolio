@@ -4,21 +4,28 @@
         <meta charset="utf-8" />
         <link rel="icon" href="%sveltekit.assets%/favicon.png" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="description" content="Hi, I'm Oliver, a passionate cybersecurity student from Prague. I make websites, produce videos and educate in IT." />
+        <meta name="description" content="Hi, I'm Oliver, founder and CEO of GrowByte, currently solving elderly loneliness." />
+        <meta property="og:title" content="Oliver Cingl" />
+        <meta property="og:description" content="Hi, I'm Oliver, founder and CEO of GrowByte, currently solving elderly loneliness." />
+        <meta property="og:image" content="https://olivercingl.com/images/oliver-cingl-banner.jpg" />
+        <meta property="og:url" content="https://olivercingl.com" />
+        <meta property="og:type" content="website" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:image" content="https://olivercingl.com/images/oliver-cingl-banner.jpg" />
         <title>Oliver Cingl</title>
         <script type="application/ld+json">
             {
             "@context": "https://schema.org",
             "@type": "Person",
             "name": "Oliver Cingl",
-            "description": "Web Developer, Media Producer, IT Educator, Cybersecurity Student",
+            "description": "Founder and CEO of GrowByte, currently solving elderly loneliness.",
             "url": "https://olivercingl.com",
             "image": "https://olivercingl.com/images/oliver-cingl-profile-picture.jpg",
             "worksFor": {
                 "@type": "Organization",
                 "name": "Luma Production"
             },
-            "knowsAbout": ["Web Development", "Media Production", "IT Education", "Cybersecurity"],
+            "knowsAbout": ["Web Development", "AI Solutions", "Elderly Loneliness"],
             "alumniOf": {
                 "@type": "EducationalOrganization",
                 "name": "Smichov secondary technical school"
@@ -35,13 +42,14 @@
                 "@type": "ListItem",
                 "position": 1,
                 "item": {
-                    "@type": "CreativeWork",
-                    "name": "Luma production agency",
-                    "url": "https://luma-production.com/",
+                    "@type": "Organization",
+                    "name": "GrowByte",
+                    "url": "https://growbyte.co/",
+                    "description": "Agency for custom websites, web apps, and AI solutions. Also building MyFriend, an AI companion robot for lonely seniors.",
                     "image": {
                     "@type": "ImageObject",
-                    "url": "https://olivercingl.com/images/luma-production-website-screenshot.png",
-                    "caption": "Screenshot of the Luma Production Agency website"
+                    "url": "https://olivercingl.com/images/growbyte-logo-with-motto.jpg",
+                    "caption": "GrowByte logo with motto"
                     }
                 }
                 },
@@ -50,12 +58,13 @@
                 "position": 2,
                 "item": {
                     "@type": "CreativeWork",
-                    "name": "SX Media - car photos & videos",
-                    "url": "https://sx-media.vercel.app/",
+                    "name": "MyFriend",
+                    "url": "https://growbyte.co/myfriend",
+                    "description": "An AI companion robot for the 16.2 million seniors in the US who live alone.",
                     "image": {
                     "@type": "ImageObject",
-                    "url": "https://olivercingl.com/images/sx-media-website-screenshot.png",
-                    "caption": "Screenshot of the SX Media website showing car photos and videos"
+                    "url": "https://olivercingl.com/images/myfriend-banner.jpg",
+                    "caption": "MyFriend banner"
                     }
                 }
                 },
@@ -64,13 +73,55 @@
                 "position": 3,
                 "item": {
                     "@type": "CreativeWork",
-                    "name": "GrowByte website",
-                    "url": "https://growbyte.co/",
+                    "name": "Ambitious Shit",
+                    "url": "https://olivercingl.com/ambitious-shit",
+                    "description": "Oliver's exploration of the most ambitious long-term ideas to build in the next 5–10 years, including brain-computer interfaces.",
                     "image": {
                     "@type": "ImageObject",
-                    "url": "https://olivercingl.com/images/growbyte-website-screenshot.png",
-                    "caption": "Screenshot of the GrowByte website"
+                    "url": "https://olivercingl.com/images/san-francisco-skyline-at-night.jpg",
+                    "caption": "San Francisco skyline at night shot from Twin Peaks"
                     }
+                }
+                }
+            ]
+            }
+        </script>
+
+        <script type="application/ld+json">
+            {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                "@type": "Question",
+                "name": "Who is Oliver Cingl?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Oliver Cingl is a web developer, entrepreneur, and cybersecurity student from Prague, Czech Republic. He runs GrowByte, an agency for custom websites and AI automations, and is building MyFriend, an AI companion robot for seniors living alone. He is currently based in San Francisco."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "What is MyFriend?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "MyFriend is an AI companion created by Oliver Cingl to address senior loneliness. In the US, 16.2 million seniors live completely alone. MyFriend provides companionship through an AI-powered voice line. More information is available at https://growbyte.co/myfriend."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "What is GrowByte?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "GrowByte is Oliver Cingl's web and AI agency. It builds custom websites, web apps, and AI automations for clients — including automated email cold outreach systems, CRMs, and portfolio sites. Visit https://growbyte.co/ for more information."
+                }
+                },
+                {
+                "@type": "Question",
+                "name": "What technologies does Oliver Cingl use?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Oliver Cingl builds with SvelteKit, Next.js, TypeScript, Tailwind CSS, Supabase, and PostgreSQL for web projects. He also uses Python and AI tools for automation, and Adobe Premiere Pro, After Effects, and DaVinci Resolve for media production."
                 }
                 }
             ]
