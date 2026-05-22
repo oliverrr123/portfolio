@@ -45,7 +45,7 @@
 </script>
 
 <svelte:head>
-    <title>Oliver Cingl</title>
+    <title>Oliver Cingl | Founder and CEO of GrowByte</title>
 </svelte:head>
 
 <div class="flex w-full justify-center items-center pt-24 pb-6">
